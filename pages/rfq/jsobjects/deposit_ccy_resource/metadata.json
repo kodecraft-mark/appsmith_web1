@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "deposit_ccy_resource",
+    "pageId": "rfq",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "selectedValue",
+        "value": "currency_pair.selectedOptionValue"
+      },
+      {
+        "name": "values",
+        "value": "deposit_ccy_resource.selectedValue.split(\"/\")"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "rfq_deposit_ccy_resource",
+  "deleted": false,
+  "gitSyncId": "64fee5fdfb745c2a552d555d_64fefb4d4f3d4c44b88ca961"
+}
